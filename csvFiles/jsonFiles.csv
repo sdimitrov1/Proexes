@@ -1,0 +1,3 @@
+jsonFile_raw,jsonFile_prep,file_name_prep,file_name_final
+/Users/simeo/TaskProexes1/fashionWebScraping/rawdata_HM.json,/Users/simeo/TaskProexes1/fashionWebScraping/jsonFiles/prepdata_HM.json,prepdata_HM.json,finaldata_HM.json
+
